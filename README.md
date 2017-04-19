@@ -1,10 +1,10 @@
 # Quadratic Equations Solver
-The script calculates the roots of the quadratic equation.\n
-ax^2 + bx + c = 0\n
-Input: three coefficients of the quadratic equation.\n
-get_roots (a, b, c)\n
-Output: a tuple with the values of two roots\n
-(root1, root2) or (root1, None) or (None, None)\n
+<p>The script calculates the roots of the quadratic equation.</p>
+<p>ax^2 + bx + c = 0</p>
+<p>Input: three coefficients of the quadratic equation.</p>
+<p>get_roots (a, b, c)</p>
+<p>Output: a tuple with the values of two roots</p>
+<p>(root1, root2) or (root1, None) or (None, None)</p>
 
 # How to Use
 
